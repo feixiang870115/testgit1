@@ -4,5 +4,6 @@
 public class test {
     public void method(){
         System.out.println("dasfadsfdas");
+        System.out.println("12345");
     }
 }
